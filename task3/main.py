@@ -32,3 +32,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# example command
+# python task3/main.py ./task3
